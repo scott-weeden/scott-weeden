@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
 
-# Scott Weeden - Software Engineer, Data Analyst, & Tutor
+# Software Engineer, Data Analyst, & Tutor
 
 Welcome to my GitHub profile! I’m Scott Weeden, a seasoned Software Engineer with 20 years of experience, and the founder of [Web Sharp Studios LLC](https://github.com/websharpstudios). My expertise spans across .NET Framework, SQL Server, and a variety of other technologies. Here’s a closer look at what I do:
 
