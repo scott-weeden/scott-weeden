@@ -1,6 +1,5 @@
-<!--horizontal divider(gradiant)-->
-
-# Software Engineer, Data Analyst, & Tutor
+# Scott Weeden
+## Software Engineer, Data Analyst, & Tutor
 
 Welcome to my GitHub profile! I’m Scott Weeden, a seasoned Software Engineer with 20 years of experience, and the founder of [Web Sharp Studios LLC](https://github.com/websharpstudios). My expertise spans across .NET Framework, SQL Server, and a variety of other technologies. Here’s a closer look at what I do:
 
@@ -18,7 +17,7 @@ My goal is to foster a deep understanding and practical skills in STEM subjects 
 I am available for **full-time** and **part-time** consulting roles, whether on-premise, remote, or hybrid. My contracting experience includes work with:
 
 - **Finance**: Fisher Investments, US Department of Treasury, Federal Reserve
-- **Manufacturing and Logistics**: Jabil, US Army, The Home Depot
+- **Manufacturing and Logistics**: Jabil, US Army
 
 For more details on my solutions, visit [Web Sharp Studios](https://github.com/websharpstudios), where we focus on SharePoint, Dynamics, Azure, MS Office, and SQL Server.
 
