@@ -18,7 +18,7 @@ My goal is to foster a deep understanding and practical skills in STEM subjects 
 I am available for **full-time** and **part-time** consulting roles, whether on-premise, remote, or hybrid. My contracting experience includes work with:
 
 - **Finance**: Fisher Investments, US Department of Treasury, Federal Reserve
-- **Manufacturing and Logistics**: Jabil, US Army
+- **Manufacturing and Logistics**: Jabil, US Army, The Home Depot
 
 For more details on my solutions, visit [Web Sharp Studios](https://github.com/websharpstudios), where we focus on SharePoint, Dynamics, Azure, MS Office, and SQL Server.
 
