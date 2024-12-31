@@ -14,31 +14,19 @@ My goal is to foster a deep understanding and practical skills in STEM subjects 
 
 ## Work
 
-I am available for **full-time** and **part-time** consulting roles, whether on-premise, remote, or hybrid. My contracting experience includes work with:
+I am available for **full-time** and **part-time** consulting roles, on-site, remote, or hybrid. My contracting experience includes work with:
 
 - **Finance**: Fisher Investments, US Department of Treasury, Federal Reserve
 - **Manufacturing and Logistics**: Jabil, US Army, The Home Depot
 
 ## Research
 
-My approach to cybersecurity is grounded in rigorous research and practical experience. Key aspects include:
+My expertise and key areas of understanding in computer programming span 20 years of experience and a Bachelors degree from Ohio State. Key aspects include:
 
-- **Research**: Data science, Machine Learning, Statistics, E-Commerce platforms
-- **Hugging Face Models**: Explore our [Hugging Face](https://huggingface.co/websharpstudios) models and [TabbyML](https://websharpstudios.com/cyber-security-ai) for secure, offline code scanning and vulnerability management.
+- **Expertise**: Data science, Machine Learning, Statistics, E-Commerce platforms, Identity and Access Management
+- **Programming Languages**: SQL, C#, C++, CSS, JavaScript, HTML
 
-Our models offer enterprise-level security and can outperform major models like OpenAI’s and Gemini’s. They are designed to understand and exploit existing vulnerabilities in any system securely.
-
-## E-Commerce
-
-Leveraging my background in financial systems and risk analysis, my company offers custom software solutions for small businesses. Features include:
-
-- **Inventory Management**
-- **Online Payment Processing**
-- **SEO Optimization**
-
-Experience our solutions on [Cloud Fronts](https://fronts.cloud), where you can register with a Google or Microsoft account to access a personalized storefront. Various templates are available to meet your business needs, from pet supplies to lawn care services.
-
-Feel free to connect with me or explore my projects. For further details, visit my [GitHub profile](https://github.com/scott-weeden) or reach out directly.
+Feel free to connect with me or explore my projects. For further details, visit my [LinkedIn profile](https://linkedin.com/in/scott-weeden) or reach out directly.
 
 ---
 *Scott Weeden - Crafting Solutions for Tomorrow's Challenges*
