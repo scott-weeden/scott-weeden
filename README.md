@@ -1,7 +1,7 @@
 # Scott Weeden
 ## Technology Specialist
 
-Welcome to my GitHub profile! I’m Scott Weeden, a seasoned Software Engineer with 20 years of experience, and the founder of [Web Sharp Studios LLC](https://github.com/websharpstudios). My expertise spans across .NET Framework, SQL Server, and a variety of other technologies. Here’s a closer look at what I do:
+Welcome to my GitHub profile! I’m Scott Weeden, a seasoned Software Engineer with 20 years of experience, and a member of [Web Sharp Studios](https://websharpstudios) board since 2007. My expertise spans across .NET Framework, SQL Server, and a variety of other technologies. Here’s a closer look at what I do:
 
 ## Tutoring
 
