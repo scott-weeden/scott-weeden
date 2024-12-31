@@ -25,7 +25,7 @@ For more details on my solutions, visit [Web Sharp Studios](https://github.com/w
 
 My approach to cybersecurity is grounded in rigorous research and practical experience. Key aspects include:
 
-- **Research**: 25% on the darknet, 25% on Mitre's CVE, and 50% in developing Large Language Models (LLMs) for code security.
+- **Research**: Data science, Machine Learning, Statistics, E-Commerce platforms
 - **Hugging Face Models**: Explore our [Hugging Face](https://huggingface.co/websharpstudios) models and [TabbyML](https://websharpstudios.com/cyber-security-ai) for secure, offline code scanning and vulnerability management.
 
 Our models offer enterprise-level security and can outperform major models like OpenAI’s and Gemini’s. They are designed to understand and exploit existing vulnerabilities in any system securely.
