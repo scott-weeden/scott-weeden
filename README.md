@@ -12,7 +12,7 @@ I’m the founder and CEO of [CodeMasters STEM Tutoring](https://github.com/code
 
 My goal is to foster a deep understanding and practical skills in STEM subjects to prepare students for successful careers in technology and science.
 
-## Work
+## Past Work
 
 I am available for **full-time** and **part-time** consulting roles, on-site, remote, or hybrid. My contracting experience includes work with:
 
